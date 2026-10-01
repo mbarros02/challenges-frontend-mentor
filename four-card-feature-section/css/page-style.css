@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    padding: 50px;
+    color: hsl(212, 6%, 44%);
+    font-size: 15px;
+    margin: 0;
+}
+
+.titulo-sem-bold {
+    font-weight: normal;
+}
+
